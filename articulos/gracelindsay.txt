@@ -1,0 +1,151 @@
+Review  •  Open access
+Grounding neuroscience in behavioral changes using artificial neural networks
+Lindsay, G.W.
+Current Opinion in NeurobiologyThis link is disabled., 2024, 84, 102816
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+3
+Citations
+Review  •  Open access
+Deep neural networks are not a single hypothesis but a language for expressing computational hypotheses
+Golan, T.
+, 
+Taylor, J.
+, 
+Schütt, H.
+, ... 
+Lindsay, G.W.
+, 
+Kriegeskorte, N.
+Behavioral and Brain SciencesThis link is disabled., 2023, 46, e392
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Testing methods of neural systems understanding
+Lindsay, G.W.
+, 
+Bau, D.
+Cognitive Systems ResearchThis link is disabled., 2023, 82, 101156
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article
+LLMs are not ready for editorial work
+Lindsay, G.W.
+Nature Human BehaviourThis link is disabled., 2023, 7(11), pp. 1814–1815
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article
+The neuroconnectionist research programme
+Doerig, A.
+, 
+Sommers, R.P.
+, 
+Seeliger, K.
+, ... 
+Kriegeskorte, N.
+, 
+Kietzmann, T.C.
+Nature Reviews NeuroscienceThis link is disabled., 2023, 24(7), pp. 431–450
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+35
+Citations
+Conference Paper  •  Open access
+Recent Advances at the Interface of Neuroscience and Artificial Neural Networks
+Cohen, Y.
+, 
+Engel, T.A.
+, 
+Langdon, C.
+, ... 
+Breton-Provencher, V.
+, 
+Ramaswamy, S.
+Journal of NeuroscienceThis link is disabled., 2022, 42(45), pp. 8514–8523
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+4
+Citations
+Article  •  Open access
+Convolutional neural networks as a model of the visual system: Past, present, and future
+Lindsay, G.W.
+Journal of Cognitive NeuroscienceThis link is disabled., 2021, 33(10), pp. 2017–2031
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+226
+Citations
+Note  •  Open access
+Neuromatch Academy: Teaching Computational Neuroscience with Global Accessibility
+van Viegen, T.
+, 
+Akrami, A.
+, 
+Bonnen, K.
+, ... 
+Escola, S.
+, 
+Peters, M.A.K.
+Trends in Cognitive SciencesThis link is disabled., 2021, 25(7), pp. 535–538
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+10
+Citations
+Erratum  •  Open access
+Corrigendum: Attention in Psychology, Neuroscience, and Machine Learning (Frontiers in Computational Neuroscience, (2020), 14, (29), 10.3389/fncom.2020.00029)
+Lindsay, G.W.
+Frontiers in Computational NeuroscienceThis link is disabled., 2021, 15, 698574
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Review  •  Open access
+Attention in Psychology, Neuroscience, and Machine Learning
+Lindsay, G.W.
+Frontiers in Computational NeuroscienceThis link is disabled., 2020, 14, 29
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+132
+Citations

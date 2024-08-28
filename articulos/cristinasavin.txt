@@ -1,0 +1,180 @@
+Article  •  Open access
+Context-invariant beliefs are supported by dynamic reconfiguration of single unit functional connectivity in prefrontal cortex of male macaques
+Noel, J.-P.
+, 
+Balzani, E.
+, 
+Savin, C.
+, 
+Angelaki, D.E.
+Nature CommunicationsThis link is disabled., 2024, 15(1), 5738
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Review
+Desiderata for Normative Models of Synaptic Plasticity
+Bredenberg, C.
+, 
+Savin, C.
+Neural ComputationThis link is disabled., 2024, 36(7), pp. 1245–1285
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Recurrent Neural Circuits Overcome Partial Inactivation by Compensation and Re-learning
+Bredenberg, C.
+, 
+Savin, C.
+, 
+Kiani, R.
+Journal of NeuroscienceThis link is disabled., 2024, 44(16), e1635232024
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Conference Paper
+COMPLEX PRIORS AND FLEXIBLE INFERENCE IN RECURRENT CIRCUITS WITH DENDRITIC NONLINEARITIES
+Lyo, B.S.H.
+, 
+Savin, C.
+12th International Conference on Learning Representations, ICLR 2024, 2024
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Targeted V1 comodulation supports task-adaptive sensory decisions
+Haimerl, C.
+, 
+Ruff, D.A.
+, 
+Cohen, M.R.
+, 
+Savin, C.
+, 
+Simoncelli, E.P.
+Nature CommunicationsThis link is disabled., 2023, 14(1), 7879
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+Catalyzing next-generation Artificial Intelligence through NeuroAI
+Zador, A.
+, 
+Escola, S.
+, 
+Richards, B.
+, ... 
+Tolias, A.S.
+, 
+Tsao, D.
+Nature CommunicationsThis link is disabled., 2023, 14(1), 1597
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+63
+Citations
+Article  •  Open access
+The structure of hippocampal CA1 interactions optimizes spatial coding across experience
+Nardin, M.
+, 
+Csicsvari, J.
+, 
+Tkačik, G.
+, 
+Savin, C.
+Journal of NeuroscienceThis link is disabled., 2023, 43(48), pp. 8140–8156
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Transformation of acoustic information to sensory decision variables in the parietal cortex
+Yao, J.D.
+, 
+Zemlianova, K.O.
+, 
+Hocker, D.L.
+, ... 
+Chung, S.
+, 
+Sanes, D.H.
+Proceedings of the National Academy of Sciences of the United States of AmericaThis link is disabled., 2023, 120(2), e2212120120
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+7
+Citations
+Conference Paper
+Formalizing locality for normative synaptic plasticity models
+Bredenberg, C.
+, 
+Williams, E.
+, 
+Savin, C.
+, 
+Richards, B.
+, 
+Lajoie, G.
+Advances in Neural Information Processing Systems, 2023, 36
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Conference Paper
+A PROBABILISTIC FRAMEWORK FOR TASK-ALIGNED INTRA- AND INTER-AREA NEURAL MANIFOLD ESTIMATION
+Balzani, E.
+, 
+Noel, J.P.
+, 
+Herrero-Vidal, P.
+, 
+Angelaki, D.E.
+, 
+Savin, C.
+11th International Conference on Learning Representations, ICLR 2023, 2023
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations

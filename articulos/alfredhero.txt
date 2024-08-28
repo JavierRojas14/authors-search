@@ -1,0 +1,166 @@
+Article  •  Article in Press  •  Open access
+Gradient Coding with Iterative Block Leverage Score Sampling
+Charalambides, N.
+, 
+Pilanci, M.
+, 
+Hero, A.O.
+IEEE Transactions on Information TheoryThis link is disabled., 2024
+
+Show abstract
+This link is disabled.
+ 
+0
+Citations
+Article
+Iterative Sketching for Secure Coded Regression
+Charalambides, N.
+, 
+Mahdavifar, H.
+, 
+Pilanci, M.
+, 
+Hero, A.O.
+IEEE Journal on Selected Areas in Information TheoryThis link is disabled., 2024, 5, pp. 148–161
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Multi-Trigger-Key: Toward Multi-Task Privacy Preserving in Deep Learning
+Wang, R.
+, 
+Xu, Z.
+, 
+Hero, A.
+IEEE AccessThis link is disabled., 2024, 12, pp. 16939–16950
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Resolution Limits of Non-Adaptive 20 Questions Search for a Moving Target
+Zhou, L.
+, 
+Hero, A.O.
+IEEE Transactions on Information TheoryThis link is disabled., 2023, 69(9), pp. 5463–5484
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Securely Aggregated Coded Matrix Inversion
+Charalambides, N.
+, 
+Pilanci, M.
+, 
+Hero, A.O.
+IEEE Journal on Selected Areas in Information TheoryThis link is disabled., 2023, 4, pp. 405–419
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+3
+Citations
+Conference Paper
+A Practical Approach to Disease Risk Prediction: Focus on High-Risk Patients via Highest-k Loss
+Yang, H.
+, 
+Gonzalez, R.
+, 
+Nallamothu, B.K.
+, ... 
+Hero, A.O.
+, 
+Ansari, S.
+Proceedings - 2023 2023 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2023, 2023, pp. 3226–3233
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+A Graphical Model for Fusing Diverse Microbiome Data
+Aktukmak, M.
+, 
+Zhu, H.
+, 
+Chevrette, M.G.
+, ... 
+Handelsman, J.
+, 
+Hero, A.
+IEEE Transactions on Signal ProcessingThis link is disabled., 2023, 71, pp. 3399–3412
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper  •  Open access
+Graph Sparsification by Approximate matrix Multiplication
+Charalambides, N.
+, 
+Hero, A.O.
+IEEE Workshop on Statistical Signal Processing Proceedings, 2023, 2023-July, pp. 180–184
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Compression-Informed Coded Computing
+Rudow, M.
+, 
+Charalambides, N.
+, 
+Hero, A.O.
+, 
+Rashmi, K.V.
+IEEE International Symposium on Information Theory - ProceedingsThis link is disabled., 2023, 2023-June, pp. 2177–2182
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+Any-Shot Learning From Multimodal Observations (ALMO)
+Aktukmak, M.
+, 
+Yilmaz, Y.
+, 
+Hero, A.O.
+IEEE AccessThis link is disabled., 2023, 11, pp. 61513–61524
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations

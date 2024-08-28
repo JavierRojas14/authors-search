@@ -1,0 +1,171 @@
+Article
+Systemic infinitesimal over-dispersion on graphical dynamic models
+Ning, N.
+, 
+Ionides, E.
+Statistics and ComputingThis link is disabled., 2024, 34(5), 147
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Inference on spatiotemporal dynamics for coupled biological populations
+Li, J.
+, 
+Ionides, E.L.
+, 
+King, A.A.
+, 
+Pascual, M.
+, 
+Ning, N.
+Journal of the Royal Society InterfaceThis link is disabled., 2024, 21(216), 20240217
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+AN ITERATED BLOCK PARTICLE FILTER FOR INFERENCE ON COUPLED DYNAMIC SYSTEMS WITH SHARED AND UNIT-SPECIFIC PARAMETERS
+Ionides, E.L.
+, 
+Ning, N.
+, 
+Wheeler, J.
+Statistica SinicaThis link is disabled., 2024, 34, pp. 1145–1166
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article
+Informing policy via dynamic models: Cholera in Haiti
+Wheeler, J.
+, 
+Rosengart, A.
+, 
+Jiang, Z.
+, ... 
+Treutle, N.
+, 
+Ionides, E.L.
+PLoS Computational BiologyThis link is disabled., 2024, 20(4 April), e1012032
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+Bagged Filters for Partially Observed Interacting Systems
+Ionides, E.L.
+, 
+Asfaw, K.
+, 
+Park, J.
+, 
+King, A.A.
+Journal of the American Statistical AssociationThis link is disabled., 2023, 118(542), pp. 1078–1089
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+7
+Citations
+Note  •  Open access
+The scientific method and p-values: response to Mayo (2022)
+Ionides, E.
+, 
+Ritov, Y.
+Conservation BiologyThis link is disabled., 2022, 36(5), e13984
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Markov genealogy processes
+King, A.A.
+, 
+Lin, Q.
+, 
+Ionides, E.L.
+Theoretical Population BiologyThis link is disabled., 2022, 143, pp. 77–91
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+4
+Citations
+Article  •  Open access
+Scalable Monte Carlo inference and rescaled local asymptotic normality
+Ning, N.
+, 
+Ionides, E.L.
+, 
+Ritov, Y.
+BernoulliThis link is disabled., 2021, 27(4), pp. 2532
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+4
+Citations
+Review  •  Open access
+Understanding the impact of rainfall on diarrhea: Testing the concentration-dilution hypothesis using a systematic review and meta-analysis
+Kraay, A.N.M.
+, 
+Man, O.
+, 
+Levy, M.C.
+, ... 
+Ionides, E.
+, 
+Eisenberg, J.N.S.
+Environmental Health PerspectivesThis link is disabled., 2020, 128(12), pp. 126001-1–126001-16, 126001
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+51
+Citations
+Article  •  Open access
+Effect of childhood rotavirus vaccination on community rotavirus prevalence in rural Ecuador, 2008-13
+Kraay, A.N.M.
+, 
+Ionides, E.L.
+, 
+Lee, G.O.
+, 
+Trujillo, W.F.C.
+, 
+Eisenberg, J.N.S.
+International Journal of EpidemiologyThis link is disabled., 2020, 49(5), pp. 1691–1701
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+6
+Citations

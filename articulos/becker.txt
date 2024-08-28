@@ -1,0 +1,134 @@
+Article  •  Open access
+A Reinforcement Learning-Based Follow-up Framework
+Astudillo, J.
+, 
+Protopapas, P.
+, 
+Pichara, K.
+, 
+Becker, I.
+Astronomical JournalThis link is disabled., 2023, 165(3), 118
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+ASTROMER: A transformer-based embedding for the representation of light curves
+Donoso-Oliva, C.
+, 
+Becker, I.
+, 
+Protopapas, P.
+, ... 
+Vishnu, M.
+, 
+Vardhan, H.
+Astronomy and AstrophysicsThis link is disabled., 2023, 670, A54
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+7
+Citations
+Article  •  Open access
+The VVV survey: Long-period variable stars: I. Photometric catalog of ten VVV/OGLE tiles
+Nikzat, F.
+, 
+Ferreira Lopes, C.E.
+, 
+Catelan, M.
+, ... 
+Borissova, J.
+, 
+Becker, I.
+Astronomy and AstrophysicsThis link is disabled., 2022, 660, A35
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+11
+Citations
+Article  •  Open access
+StelNet: Hierarchical Neural Network for Automatic Inference in Stellar Characterization
+Garraffo, C.
+, 
+Protopapas, P.
+, 
+Drake, J.J.
+, 
+Becker, I.
+, 
+Cargile, P.
+Astronomical JournalThis link is disabled., 2021, 162(4), 157
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Scalable end-To-end recurrent neural network for variable star classification
+Becker, I.
+, 
+Pichara, K.
+, 
+Catelan, M.
+, ... 
+Aguirre, C.
+, 
+Nikzat, F.
+Monthly Notices of the Royal Astronomical SocietyThis link is disabled., 2020, 493(2), pp. 2981–2995
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+29
+Citations
+Review  •  Open access
+Deep multi-survey classification of variable stars
+Aguirre, C.
+, 
+Pichara, K.
+, 
+Becker, I.
+Monthly Notices of the Royal Astronomical SocietyThis link is disabled., 2019, 482(4), pp. 5078–5092
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+29
+Citations
+Conference Paper  •  Open access
+New variable stars from the photographic archive: Semi-automated discoveries, attempts at automatic classification and the new field 104 Her
+Antipin, S.V.
+, 
+Becker, I.
+, 
+Belinski, A.A.
+, ... 
+Zharova, A.V.
+, 
+Zubareva, A.M.
+Research in Astronomy and AstrophysicsThis link is disabled., 2018, 18(8), 092
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+2
+Citations

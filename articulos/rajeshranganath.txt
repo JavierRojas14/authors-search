@@ -1,0 +1,178 @@
+Article  •  Open access
+Quantifying impairment and disease severity using AI models trained on healthy subjects
+Yu, B.
+, 
+Kaku, A.
+, 
+Liu, K.
+, ... 
+Schambra, H.
+, 
+Fernandez-Granda, C.
+npj Digital MedicineThis link is disabled., 2024, 7(1), 180
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Note  •  Open access
+From algorithms to action: improving patient care requires causality
+van Amsterdam, W.A.C.
+, 
+de Jong, P.A.
+, 
+Verhoeff, J.J.C.
+, 
+Leiner, T.
+, 
+Ranganath, R.
+BMC Medical Informatics and Decision MakingThis link is disabled., 2024, 24(1), 111
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article
+QTNet: Predicting Drug-Induced QT Prolongation With Artificial Intelligence–Enabled Electrocardiograms
+Zhang, H.
+, 
+Tarabanis, C.
+, 
+Jethani, N.
+, ... 
+Aphinyanaphongs, Y.
+, 
+Jankelson, L.
+JACC: Clinical ElectrophysiologyThis link is disabled., 2024, 10(5), pp. 956–966
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+Holdout predictive checks for Bayesian model criticism
+Moran, G.E.
+, 
+Blei, D.M.
+, 
+Ranganath, R.
+Journal of the Royal Statistical Society. Series B: Statistical MethodologyThis link is disabled., 2024, 86(1), pp. 194–214
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Review  •  Article in Press
+Causal Inference in Oncology: Why, What, How and When
+van Amsterdam, W.A.C.
+, 
+Elias, S.
+, 
+Ranganath, R.
+Clinical OncologyThis link is disabled., 2024
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Robustness to Spurious Correlations Improves Semantic Out-of-Distribution Detection
+Zhang, L.H.
+, 
+Ranganath, R.
+Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023, 2023, 37, pp. 15305–15312
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+WHERE TO DIFFUSE, HOW TO DIFFUSE, AND HOW TO GET BACK: AUTOMATED LEARNING FOR MULTIVARIATE DIFFUSIONS
+Singhal, R.
+, 
+Goldstein, M.
+, 
+Ranganath, R.
+11th International Conference on Learning Representations, ICLR 2023, 2023
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+3
+Citations
+Conference Paper
+Don't blame Dataset Shift! Shortcut Learning due to Gradients and Cross Entropy
+Puli, A.
+, 
+Zhang, L.
+, 
+Wald, Y.
+, 
+Ranganath, R.
+Advances in Neural Information Processing Systems, 2023, 36
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+When More is Less: Incorporating Additional Datasets Can Hurt Performance By Introducing Spurious Correlations
+Compton, R.
+, 
+Zhang, L.
+, 
+Puli, A.
+, 
+Ranganath, R.
+Proceedings of Machine Learning Research, 2023, 219, pp. 110–127
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+An Effective Meaningful Way to Evaluate Survival Models
+Qi, S.-A.
+, 
+Kumar, N.
+, 
+Farrokh, M.
+, ... 
+Henao, R.
+, 
+Greiner, R.
+Proceedings of Machine Learning Research, 2023, 202, pp. 28244–28276
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations

@@ -1,0 +1,152 @@
+Article
+A Comparison of Three Popular Methods for Handling Missing Data: Complete-Case Analysis, Inverse Probability Weighting, and Multiple Imputation
+Little, R.J.
+, 
+Carpenter, J.R.
+, 
+Lee, K.J.
+Sociological Methods and ResearchThis link is disabled., 2024, 53(3), pp. 1105–1135
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+22
+Citations
+Review
+Missing Data Analysis
+Little, R.J.
+Annual Review of Clinical PsychologyThis link is disabled., 2024, 20(1), pp. 149–173
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+Multiple imputation of more than one environmental exposure with nondifferential measurement error
+Yu, Y.
+, 
+Little, R.J.
+, 
+Perzanowski, M.
+, 
+Chen, Q.
+BiostatisticsThis link is disabled., 2024, 25(2), pp. 306–322
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Article in Press  •  Open access
+Nonresponse Bias Analysis in Longitudinal Studies: A Comparative Review with an Application to the Early Childhood Longitudinal Study
+Si, Y.
+, 
+Little, R.J.A.
+, 
+Mo, Y.
+, 
+Sedransk, N.
+International Statistical ReviewThis link is disabled., 2024
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+A Case Study of Nonresponse Bias Analysis in Educational Assessment Surveys
+Si, Y.
+, 
+Little, R.J.A.
+, 
+Mo, Y.
+, 
+Sedransk, N.
+Journal of Educational and Behavioral StatisticsThis link is disabled., 2023, 48(3), pp. 271–295
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+2
+Citations
+Article  •  Open access
+Some Reflections on Rosenbaum and Rubin’s Propensity Score Paper
+Little, R.J.
+Observational StudiesThis link is disabled., 2023, 9(1), pp. 69–75
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Addressing Disparities in the Propensity Score Distributions for Treatment Comparisons from Observational Studies
+Zhou, T.
+, 
+Elliott, M.R.
+, 
+Little, R.J.A.
+StatsThis link is disabled., 2022, 5(4), pp. 1254–1270
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article  •  Open access
+Likelihood-Based Inference for the Finite Population Mean with Post-Stratification Information Under Non-Ignorable Non-Response
+Zangeneh, S.Z.
+, 
+Little, R.J.
+International Statistical ReviewThis link is disabled., 2022, 90(S1), pp. S17–S36
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+4
+Citations
+Article  •  Open access
+ACCOUNTING FOR SURVEY DESIGN IN BAYESIAN DISAGGREGATION OF SURVEY-BASED AREAL ESTIMATES OF PROPORTIONS: AN APPLICATION TO THE AMERICAN COMMUNITY SURVEY
+Benedetti, M.H.
+, 
+Berrocal, V.J.
+, 
+Little, R.J.
+Annals of Applied StatisticsThis link is disabled., 2022, 16(4), pp. 2201–2230
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+3
+Citations
+Article
+A Note About the Definition of Response Propensity for Survey Nonresponse
+Little, R.J.
+Journal of Survey Statistics and MethodologyThis link is disabled., 2022, 10(4), pp. 1098–1106
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+2
+Citations

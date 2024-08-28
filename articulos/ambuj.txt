@@ -1,0 +1,178 @@
+Article  •  Open access
+Joint learning of linear time-invariant dynamical systems
+Modi, A.
+, 
+Faradonbeh, M.K.S.
+, 
+Tewari, A.
+, 
+Michailidis, G.
+AutomaticaThis link is disabled., 2024, 164, 111635
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+SAMPLE EFFICIENT MYOPIC EXPLORATION THROUGH MULTITASK REINFORCEMENT LEARNING WITH DIVERSE TASKS
+Xu, Z.
+, 
+Xu, Z.
+, 
+Jiang, R.
+, 
+Stone, P.
+, 
+Tewari, A.
+12th International Conference on Learning Representations, ICLR 2024, 2024
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Offline Policy Evaluation and Optimization under Confounding
+Kausik, C.
+, 
+Makar, M.
+, 
+Lu, Y.
+, ... 
+Tan, K.
+, 
+Tewari, A.
+Proceedings of Machine Learning Research, 2024, 238, pp. 1459–1467
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Conformal Contextual Robust Optimization
+Patel, Y.
+, 
+Rayan, S.
+, 
+Tewari, A.
+Proceedings of Machine Learning Research, 2024, 238, pp. 2485–2493
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+A Primal-Dual-Critic Algorithm for Offline Constrained Reinforcement Learning
+Hong, K.
+, 
+Li, Y.
+, 
+Tewari, A.
+Proceedings of Machine Learning Research, 2024, 238, pp. 280–288
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Sequence Length Independent Norm-Based Generalization Bounds for Transformers
+Trauger, J.
+, 
+Tewari, A.
+Proceedings of Machine Learning Research, 2024, 238, pp. 1405–1413
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Multiclass Online Learnability under Bandit Feedback
+Raman, A.
+, 
+Raman, V.
+, 
+Subedi, U.
+, 
+Mehalel, I.
+, 
+Tewari, A.
+Proceedings of Machine Learning Research, 2024, 237, pp. 997–1012
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Online Infinite-Dimensional Regression: Learning Linear Operators
+Raman, V.
+, 
+Subedi, U.
+, 
+Tewari, A.
+Proceedings of Machine Learning Research, 2024, 237, pp. 1113–1133
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Effectiveness of gamified team competition as mHealth intervention for medical interns: a cluster micro-randomized trial
+Wang, J.
+, 
+Fang, Y.
+, 
+Frank, E.
+, ... 
+Sen, S.
+, 
+Wu, Z.
+npj Digital MedicineThis link is disabled., 2023, 6(1), 4
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+7
+Citations
+Article  •  Open access
+Machine Learning Strategies for Reaction Development: Toward the Low-Data Limit
+Shim, E.
+, 
+Tewari, A.
+, 
+Cernak, T.
+, 
+Zimmerman, P.M.
+Journal of Chemical Information and ModelingThis link is disabled., 2023, 63(12), pp. 3659–3668
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+8
+Citations
