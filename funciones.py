@@ -1,3 +1,5 @@
+import pandas as pd
+
 import re
 def parse_article_data(article_string):
     # Remove leading and trailing whitespaces/newlines
