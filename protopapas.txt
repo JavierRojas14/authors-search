@@ -1,0 +1,186 @@
+Article  •  Open access
+Gravitational duals from equations of state
+Bea, Y.
+, 
+Jimenez, R.
+, 
+Mateos, D.
+, ... 
+Tarancón-Álvarez, P.
+, 
+Tejerina-Pérez, P.
+Journal of High Energy PhysicsThis link is disabled., 2024, 2024(7), 87
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Faster Bayesian inference with neural network bundles and new results for f (R) models
+Chantada, A.T.
+, 
+Landau, S.J.
+, 
+Protopapas, P.
+, 
+Scóccola, C.G.
+, 
+Garraffo, C.
+Physical Review DThis link is disabled., 2024, 109(12), 123514
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Generating images of the M87*black hole using GANs
+Mohan, A.
+, 
+Protopapas, P.
+, 
+Kunnumkai, K.
+, ... 
+Mizuno, Y.
+, 
+Ricarte, A.
+Monthly Notices of the Royal Astronomical SocietyThis link is disabled., 2024, 527(4), pp. 10965–10974
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+IoT Malware Data Augmentation using a Generative Adversarial Network
+Carter, J.
+, 
+Mancoridis, S.
+, 
+Protopapas, P.
+, 
+Galinkin, E.
+Proceedings of the Annual Hawaii International Conference on System Sciences, 2024, pp. 7572–7581
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Conference Paper
+Behavioral Malware Detection using a Language Model Classifier Trained on sys2vec Embeddings
+Carter, J.
+, 
+Mancoridis, S.
+, 
+Protopapas, P.
+, 
+Galinkin, E.
+Proceedings of the Annual Hawaii International Conference on System Sciences, 2024, pp. 7582–7591
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+Cosmology-informed neural networks to solve the background dynamics of the Universe
+Chantada, A.T.
+, 
+Landau, S.J.
+, 
+Protopapas, P.
+, 
+Scóccola, C.G.
+, 
+Garraffo, C.
+Physical Review DThis link is disabled., 2023, 107(6), 063523
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+2
+Citations
+Article  •  Open access
+A Reinforcement Learning-Based Follow-up Framework
+Astudillo, J.
+, 
+Protopapas, P.
+, 
+Pichara, K.
+, 
+Becker, I.
+Astronomical JournalThis link is disabled., 2023, 165(3), 118
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Article
+Reservoir Computing for Solving Ordinary Differential Equations
+Mattheakis, M.
+, 
+Joy, H.
+, 
+Protopapas, P.
+International Journal on Artificial Intelligence ToolsThis link is disabled., 2023, 32(1), 2350030
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+ASTROMER: A transformer-based embedding for the representation of light curves
+Donoso-Oliva, C.
+, 
+Becker, I.
+, 
+Protopapas, P.
+, ... 
+Vishnu, M.
+, 
+Vardhan, H.
+Astronomy and AstrophysicsThis link is disabled., 2023, 670, A54
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+7
+Citations
+Conference Paper
+Optimal Data Sample Length for System Call Traces for Malware Detection in an IoT Ecosystem
+Carter, J.
+, 
+Mancoridis, S.
+, 
+Protopapas, P.
+International Conference on Electrical, Computer, Communications and Mechatronics Engineering, ICECCME 2023, 2023
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
