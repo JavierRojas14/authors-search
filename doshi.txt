@@ -1,0 +1,196 @@
+Article
+Identifying data-driven subtypes of major depressive disorder with electronic health records
+Sharma, A.
+, 
+Verhaak, P.F.
+, 
+McCoy, T.H.
+, 
+Perlis, R.H.
+, 
+Doshi-Velez, F.
+Journal of Affective DisordersThis link is disabled., 2024, 356, pp. 64–70
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Review  •  Open access
+Ethical and regulatory challenges of large language models in medicine
+Ong, J.C.L.
+, 
+Chang, S.Y.-H.
+, 
+William, W.
+, ... 
+Savulescu, J.
+, 
+Ting, D.S.W.
+The Lancet Digital HealthThis link is disabled., 2024, 6(6), pp. e428–e432
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Conference Paper  •  Open access
+Accuracy-Time Tradeoffs in AI-Assisted Decision Making under Time Pressure
+Swaroop, S.
+, 
+Buçinca, Z.
+, 
+Gajos, K.Z.
+, 
+Doshi-Velez, F.
+ACM International Conference Proceeding Series, 2024, pp. 138–154
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Conference Paper
+Reinforcement Learning Interventions on Boundedly Rational Human Agents in Frictionful Tasks
+Nofshin, E.
+, 
+Swaroop, S.
+, 
+Pan, W.
+, 
+Murphy, S.
+, 
+Doshi-Velez, F.
+Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS, 2024, 2024-May, pp. 1482–1491
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Review  •  Open access
+Artificial intelligence education: An evidence-based medicine approach for consumers, translators, and developers
+Ng, F.Y.C.
+, 
+Thirunavukarasu, A.J.
+, 
+Cheng, H.
+, ... 
+Coffman, T.
+, 
+Ting, D.S.W.
+Cell Reports MedicineThis link is disabled., 2023, 4(10), 101230
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+6
+Citations
+Conference Paper
+Reward Design for an Online Reinforcement Learning Algorithm Supporting Oral Self-Care
+Trella, A.L.
+, 
+Zhang, K.W.
+, 
+Nahum-Shani, I.
+, ... 
+Doshi-Velez, F.
+, 
+Murphy, S.A.
+Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023, 2023, 37, pp. 15724–15730
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+3
+Citations
+Conference Paper
+The Unintended Consequences of Discount Regularization: Improving Regularization in Certainty Equivalence Reinforcement Learning
+Rathnam, S.
+, 
+Parbhoo, S.
+, 
+Pan, W.
+, 
+Murphy, S.A.
+, 
+Doshi-Velez, F.
+Proceedings of Machine Learning Research, 2023, 202, pp. 28746–28767
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Conference Paper
+PERFORMANCE BOUNDS FOR MODEL AND POLICY TRANSFER IN HIDDEN-PARAMETER MDPS
+Fu, H.
+, 
+Yao, J.
+, 
+Gottesman, O.
+, 
+Doshi-Velez, F.
+, 
+Konidaris, G.
+11th International Conference on Learning Representations, ICLR 2023, 2023
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+1
+Citations
+Conference Paper  •  Open access
+Travel-time prediction using neural-network-based mixture models
+Sharma, A.
+, 
+Zhang, J.
+, 
+Nikovski, D.
+, 
+Doshi-Velez, F.
+Procedia Computer ScienceThis link is disabled., 2023, 220, pp. 1033–1038
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+0
+Citations
+Article  •  Open access
+An interpretable RL framework for pre-deployment modeling in ICU hypotension management
+Zhang, K.
+, 
+Wang, H.
+, 
+Du, J.
+, ... 
+Celi, L.A.
+, 
+Doshi-Velez, F.
+npj Digital MedicineThis link is disabled., 2022, 5(1), 173
+
+Show abstract
+This link is disabled.
+Related documents
+This link is disabled.
+ 
+2
+Citations
