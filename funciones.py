@@ -73,7 +73,6 @@ def resumir_cantidad_de_autores(resumen_articulos):
     autores_que_ha_trabajado_una_vez = conteo_autores[conteo_autores == 1]
     numero_autores_que_ha_trabajado_una_vez = autores_que_ha_trabajado_una_vez.shape[0]
     
-    print(f"El autor tiene este desempeño:\n"
-          f"> Autores distintos con los que ha trabajado: {numero_autores_distintos}\n"
+    print(f"> Autores distintos con los que ha trabajado: {numero_autores_distintos}\n"
           f"> Autores repetidos: {numero_autores_repetidos}\n"
           f"> Autores con los que ha trabajado una vez: {numero_autores_que_ha_trabajado_una_vez}") 
